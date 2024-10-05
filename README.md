@@ -43,7 +43,7 @@ First, [create an account with Mega](https://mega.nz/aff=Zo6IxNaHw14) .
 Run the following command, or run setup from the latest github source.
 
 ```python
-pip install mega.py
+pip install git+https://github.com/Eninspace/mega.py.git
 ```
 
 ### Import mega.py
